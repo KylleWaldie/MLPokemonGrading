@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/images/
+*.jpg
+*.png
+
+# Environment
+venv/
+.env
