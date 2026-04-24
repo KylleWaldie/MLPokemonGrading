@@ -13,3 +13,4 @@ dataset/
 # Environment
 venv/
 .env
+*.pkl
