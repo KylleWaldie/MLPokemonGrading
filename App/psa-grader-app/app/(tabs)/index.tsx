@@ -17,7 +17,7 @@ import axios from 'axios';
 // ── Config ─────────────────────────────────────────────────────────────────────
 // Replace this with your Hugging Face or Railway API URL when deployed
 // For local testing use your computer's IP address e.g. http://192.168.1.5:8000
-const API_URL = 'http://YOUR_API_URL_HERE';
+const API_URL = 'http://192.168.1.72:8000';
 // ──────────────────────────────────────────────────────────────────────────────
 
 const PSA_COLORS = {
