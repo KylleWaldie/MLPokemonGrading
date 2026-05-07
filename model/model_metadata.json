@@ -1,0 +1,23 @@
+{
+  "image_size": [
+    224,
+    224
+  ],
+  "pca_components": 150,
+  "n_estimators": 100,
+  "max_depth": 20,
+  "grades": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "accuracy": 0.509170305676856,
+  "within_one": 0.7694323144104803
+}
